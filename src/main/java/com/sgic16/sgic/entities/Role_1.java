@@ -1,5 +1,6 @@
 package com.sgic16.sgic.entities;
 
 public class Role_1 {
- private String name="shan";
+  private String name="logi";
+  private Integer age=25;
 }
